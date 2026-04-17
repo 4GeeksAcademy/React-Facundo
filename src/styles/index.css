@@ -9,3 +9,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.welcomeBody{
+    background: rgb(236, 224, 224);
+    text-align: center;
+    padding: 10px;
+}
+.cardBody{
+    width: 18rem;
+}
+.cardContainer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer{
+    background: rgb(236, 224, 224);
+    text-align: center;
+    padding: 10px;
+}
